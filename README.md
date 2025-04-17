@@ -14,6 +14,19 @@ J- https://colab.research.google.com/drive/11iC55olRWCcM33jqT5WxWQfRYTLnTtMB?usp
 K- https://colab.research.google.com/drive/1ozGWtEMj9wQJnVS_FJk9qovqCfqUwIeK?usp=sharing
 L- https://colab.research.google.com/drive/1YtNCYL8oMq4Fzpm4bbug0jcZcoGl7c35?usp=sharing
 
+Part 2:
+a- https://colab.research.google.com/drive/1DwTk11JdDvmmYr3LEpe0vpcdWHpAoqFA?usp=sharing
+b - https://colab.research.google.com/drive/1sIs6Oe5kQ-1kgQP3rP_4RqL7BDk88Itd?usp=sharing
+c - https://colab.research.google.com/drive/1sIs6Oe5kQ-1kgQP3rP_4RqL7BDk88Itd?usp=sharing
+d - https://colab.research.google.com/drive/1eS6POjBWJXrLnlkg8HTIqY9nvxE9xGC3?usp=sharing
+e - https://colab.research.google.com/drive/1UMr4i6zmRz8Gu3UpeqJXwTRZyfd1P4gJ?usp=sharing
+f - https://colab.research.google.com/drive/1kDGgIrgllRRyP6zm8Ov1I5PjDgTK9O9Q?usp=sharing
+g - https://colab.research.google.com/drive/1-Ha2K6URknKxXSqSIUHDULSi_R1f2NmA?usp=sharing
+h - https://colab.research.google.com/drive/1Azkbx_1uLkmTthgtNQ9IyDDpYst-fpVM?usp=sharing
+i - https://colab.research.google.com/drive/1Uyr0fH9ijnAAxBjYpGPwCYpOzA_-oaG7?usp=sharing
+j - https://colab.research.google.com/drive/1nli29dJq68j9VgQk67TSncPCwRg8aJD2?usp=sharing
+k - https://colab.research.google.com/drive/1Sjmcdq7v6HAEUC8vLYEgvzRGdryE7n5t?usp=sharing
+
 Youtube links for recording:
 Part 1: https://youtu.be/dMoV0lzAdjA
-Part 2: 
+Part 2: https://youtu.be/HPSjvszU7XA
